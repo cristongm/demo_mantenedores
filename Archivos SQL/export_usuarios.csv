@@ -1,0 +1,3 @@
+"id_user";"username";"password";"email";"nombre";"apellido";"id_group";"estado";"fecha_creacion";"fecha_modificacion"
+1;"admin";"123";"admin@admin.cl";"Administrador";"Supremo";1;"Activo";"2021-07-19 23:15:00";"2021-07-19 23:15:00"
+2;"admin2";"123";"admin2@admin.cl";"Administrador2";"Secundario2";1;"Inactivo";"2021-07-20 22:00:18";"2021-07-20 22:18:33"
